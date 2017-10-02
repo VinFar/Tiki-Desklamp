@@ -15,12 +15,13 @@ but not to bright for dazzling people.
 With the original size there is much space betwenn the Poles of the Battery and the outer shell. It think you can scale to 70% without any problems.
 But better double check before printing!
 
-### Printed Lid:
+### [Printed Lid](https://github.com/VinFar/Tiki-Desklamp/blob/master/Inventor%20Files/deckel_mit_halter.stl):
 
 The lid is designed to hold a 18650 Li-ion Battery, [this Li-ion USB-Charger](http://www.ebay.de/itm/5V-MicroUSB-3-7V-Li-ion-18650-Lithium-Battery-Charging-Charger-Module-Protection-/272806392332?hash=item3f8487320c:g:PboAAOSw6btXSwuQ)
 , [a simple slide switch](https://www.reichelt.de/Schiebeschalter/T-217/3/index.html?ACTION=3&LA=517&ARTICLE=19976&GROUPID=7595&trstct=lsbght_sldr::19977)
 , some cables, a warm-white 3W Power LED and a big heatsink for the LED.
 The Lid itself snaps into the bottom part of the Lamp. If everything works fine you can glue it superglue in place.
+Also there is a [clean version](https://github.com/VinFar/Tiki-Desklamp/blob/master/Inventor%20Files/deckel_clean.stl), if you want to make your own holder or cutouts.
 
 The Battery snaps easily into the Holder of the Lid. [This little part](https://github.com/VinFar/Tiki-Desklamp/blob/master/Inventor%20Files/steg.stl)
 has to be screwed onto the battery. It is a clamp and also the "LED Holder".
