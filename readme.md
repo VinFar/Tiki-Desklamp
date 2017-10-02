@@ -4,7 +4,7 @@
 <img src=https://github.com/VinFar/Tiki-Desklamp/blob/master/Photos/IMG_20170614_215923.jpg width="600">
 
 This Desklamp is ready-to-print and a remix from the nice looking [Teethy-Tiki-Statue](https://www.thingiverse.com/thing:49334)
-from Thingiverse.
+from [Perry Engel](https://www.thingiverse.com/cerberus333/about) from Thingiverse.
 
 The original size of the File is something about 200mm, which is enough to illuminate a big dining table at night,
 but not to bright for dazzling people.
